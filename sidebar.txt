@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ygp:home|Door43 (ygp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ygp|d43-ygp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ygp/archive/master.zip|d43-ygp.zip]]
+
+**Recent Changes**
+{{changes>ns = ygp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ygp|Ethnologue data]]
+
